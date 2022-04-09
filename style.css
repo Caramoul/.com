@@ -1,0 +1,116 @@
+html {
+	background-color: #D8B367;
+
+}
+
+
+.titre {
+	font-size: 100px;
+	color: #8A5D00;
+	font-family: 'Austein';
+
+
+}
+
+@font-face {
+
+	font-family: 'Austein';
+	src: url('Austein.woff2') format('woff2'),
+		 url('Austein-Script.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+
+.image1 {
+
+	width: 200px;
+	height: 130px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(430%, -50%);
+}
+
+.image2 {
+
+	width: 200px;
+	height: 130px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(830%, -50%);
+}
+
+.image3 {
+
+	width: 200px;
+	height: 130px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(30%, -50%);
+}
+
+
+
+
+.option1 {
+
+	width: 155px;
+	height: 50px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(48%, -170%);
+}
+
+.option2 {
+
+	width: 155px;
+	height: 50px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(563%, -170%);
+}
+
+.option3 {
+
+	width: 155px;
+	height: 50px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(1080%, -170%);
+}
+
+
+
+
+.caramoul1 {
+
+	width: 200px;
+	height: 150px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(30%, -170%);
+  	border-radius: 30%;
+}
+
+.caramoul2 {
+
+	width: 200px;
+	height: 150px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(430%, -170%);
+  	border-radius: 30%;
+}
+
+.caramoul3 {
+
+	width: 200px;
+	height: 150px;
+	position: absolute;
+  	top: 50%;
+  	transform: translate(830%, -170%);
+  	border-radius: 20%;
+}
+
+
