@@ -1,12 +1,12 @@
 html {
-	background-color: #D8B367;
+	background-color: #EEEEEE;
 
 }
 
 
 .titre {
-	font-size: 100px;
-	color: #8A5D00;
+	font-size: 5vw;
+	color: #444340;
 	font-family: 'Austein';
 
 
@@ -26,28 +26,27 @@ html {
 .image1 {
 
 	width: 200px;
-	height: 130px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(430%, -50%);
+	height: 100px;
+	text-align: center;
+  	border-radius: 30%;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	transform: translate(2.5%, +335%);
 }
 
-.image2 {
 
-	width: 200px;
-	height: 130px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(830%, -50%);
-}
 
 .image3 {
 
 	width: 200px;
-	height: 130px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(30%, -50%);
+	height: 110px;
+	text-align: center;
+  	border-radius: 30%;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	transform: translate(2.5%, +175%);
 }
 
 
@@ -55,62 +54,58 @@ html {
 
 .option1 {
 
-	width: 155px;
-	height: 50px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(48%, -170%);
+	width: 150px;
+	height: 20px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	transform: translate(0%, +1100%);
 }
 
 .option2 {
 
-	width: 155px;
-	height: 50px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(563%, -170%);
+	width: 150px;
+	height: 20px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	transform: translate(0%, +1800%);
 }
-
-.option3 {
-
-	width: 155px;
-	height: 50px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(1080%, -170%);
-}
-
 
 
 
 .caramoul1 {
 
 	width: 200px;
-	height: 150px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(30%, -170%);
+	height: 200px;
+  	text-align: center;
   	border-radius: 30%;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	transform: translate(0%, -150%);
+  
+
+
+
+
 }
 
 .caramoul2 {
 
 	width: 200px;
-	height: 150px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(430%, -170%);
+	height: 200px;
+  	text-align: center;
   	border-radius: 30%;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	transform: translate(0%, -100%);
+
 }
 
-.caramoul3 {
 
-	width: 200px;
-	height: 150px;
-	position: absolute;
-  	top: 50%;
-  	transform: translate(830%, -170%);
-  	border-radius: 20%;
-}
 
 
